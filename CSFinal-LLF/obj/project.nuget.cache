@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qqCqFa6WWbsoWssSBIQveveFaenwJvpgNBMAL1M07v0NMbMD33fjT2z2/sesK3IzgE5+foe4GnGC2TjP3t3zZg==",
+  "success": true,
+  "projectFilePath": "D:\\LUCAS FILES!!!\\Personal\\Projects\\Programs\\Procedural Dungeon\\Procedural Dungeon\\Procedural Dungeon\\CSFInal_LUCASFOXWO\\CSFinal-LLF\\CSFinal-LLF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pacma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\pacma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\pacma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\pacma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
